@@ -1,0 +1,6 @@
+"rules": {
+    "eqeqeq": 2,
+    "curly": "error",
+    "quotes": ["error", "double"],
+    "semi": [2, "always"]
+}

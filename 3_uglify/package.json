@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "uglify-loader": "^1.3.0",
+    "webpack": "^1.12.14"
+  },
+  "dependencies": {
+    "lodash": "^4.6.1"
+  },
+  "scripts": {
+    "build": "webpack"
+  }
+}

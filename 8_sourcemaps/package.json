@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "webpack": "^1.12.14"
+  },
+  "scripts": {
+    "build": "webpack",
+    "buildmap": "webpack -d"
+  }
+}

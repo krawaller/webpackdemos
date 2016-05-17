@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "standard": "^6.0.7",
+    "standard-loader": "^3.0.0",
+    "webpack": "^1.13.0"
+  },
+  "scripts": {
+    "build": "webpack"
+  }
+}
